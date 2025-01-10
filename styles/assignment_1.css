@@ -1,0 +1,192 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* shared styles */
+body{
+    background-color: #F1F1F3;
+}
+
+/* nav styles */
+
+nav {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin: 0px 160px;
+}
+
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-color{
+    color: #006A50;
+    border-color: #006A50;
+    border-radius: 8px;
+    background-color: #F5F5F5;
+}
+
+/* banner style */
+
+.banner-start{
+    font-weight: lighter ;
+    font-size: 24px;
+
+}
+
+.banner-description{
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.btn-2{
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #006A50;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 34px;
+    padding-right: 34px;
+    border-radius: 8px;
+}
+
+.banner{
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 80px;
+}
+
+.banner-picture{
+    width: 474px;
+    padding-right: 50px;
+
+}
+
+.banner-content{
+   max-width: 622px;
+   padding-left: 50px;
+}
+
+/* banner2 style */
+.banner2{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 80px;
+
+}
+
+.pilla{
+    font-weight: bold;
+    font-size: 40;
+}
+
+.banner21{
+    display: flex;
+    margin-right: 160px;
+    
+}
+
+.inno-t{
+    font-weight: bold;
+    font-size: 20ox;
+}
+
+.inno-tt{
+    font-weight: 500;
+    font-size: 16px;
+
+}
+
+.inno-pic{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.inno{
+    padding-left: 24px;
+    padding-right: 24px;
+    max-width: 302px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    margin-right: 24px;
+}
+
+.sustain{
+    padding-left: 24px;
+    padding-right: 24px;
+    max-width: 302px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    margin-right: 24px;
+}
+
+.infra{
+    padding-left: 24px;
+    padding-right: 24px;
+    max-width: 302px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    margin-right: 24px;
+}
+
+.empower{
+    padding-left: 24px;
+    padding-right: 24px;
+    max-width: 302px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    
+}
+
+/* banner3 styles */
+
+.banner3-card{
+    display: flex;
+}
+
+.banner3-vision{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.banner3-bd{
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+.img-digit{
+    padding-top: 32px;
+    padding-bottom: 24px;
+}
+
+.p-create{
+    padding-bottom: 24px;
+}
+
+.p-digit{
+
+    font-weight: bold;
+    font-size: 20px;
+
+}
