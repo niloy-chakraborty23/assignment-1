@@ -63,6 +63,7 @@ nav ul li a {
     padding-left: 34px;
     padding-right: 34px;
     border-radius: 8px;
+    margin-bottom: 80px;
 }
 
 .banner{
@@ -79,6 +80,7 @@ nav ul li a {
 .banner-picture{
     width: 474px;
     padding-right: 50px;
+    margin-bottom: 80px;
 
 }
 
@@ -182,6 +184,8 @@ nav ul li a {
 
 .p-create{
     padding-bottom: 24px;
+    font-weight: 300;
+    font-size: 16;
 }
 
 .p-digit{
@@ -189,4 +193,9 @@ nav ul li a {
     font-weight: bold;
     font-size: 20px;
 
+}
+
+.banner3-digit{
+   background-color: #5490F5;
+   border-radius: 16px;
 }
