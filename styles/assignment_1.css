@@ -294,6 +294,10 @@ nav ul li a {
     padding-top: 48px;
     padding-right: 24px;
     padding-bottom: 48px;
+    background-image: url(../images/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    
     
 
     
@@ -416,6 +420,23 @@ nav ul li a {
 
 
  /* Donation  */
+ .donation-box{
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-bottom: 80px;
+}
+
+
+.donation-box-taka{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 104.5px;
+    margin-right: 104.5px;
+
+
+}
 
  .donation-title{
     font-weight:bold;
@@ -432,4 +453,172 @@ nav ul li a {
  .donation-box1{
     font-weight: bold;
     font-size: 40;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    margin-right: 24px;
  }
+
+ .donation-box2{
+    font-weight: bold;
+    font-size: 40;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    margin-right: 24px;
+ }
+
+ .donation-box3{
+    font-weight: bold;
+    font-size: 40;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    margin-right: 24px;
+ }
+
+ .donation-box4{
+    font-weight: bold;
+    font-size: 40;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+ }
+
+ .inputt{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 1032px;
+    margin-left: 124px;
+    margin-right: 124px;
+    margin-bottom: 32px;
+    background-color: #FFFFFF;
+    border: none;
+    text-size-adjust: 20px;
+    text-align: center;
+    font-weight: 100;
+ }
+
+ .inputtt{
+    margin-left: 124px;
+    margin-right: 124px;
+    margin-bottom: 32px;
+ }
+
+.donation-btn{
+    font-weight: 600;
+    font-size: 18px;
+    color:#FFFFFF;
+    background-color: #006A50;
+    padding-top:17px;
+    padding-bottom: 17px;
+    padding-left: 34px;
+    padding-right: 34px;
+    border-radius: 8px;
+    
+}
+
+.donation-button{
+    margin-left: 564.5px;
+    margin-right: 564.5px;
+
+}
+
+/* Newsletter  */
+
+.newsletter{
+    background-color: #C6E4D6;
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-bottom: 80px;
+    border-radius: 24px;
+}
+
+.newsletter-title{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 16px;
+
+}
+
+.newsletter-para{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    padding-bottom: 24px;
+    padding-left: 64px;
+    padding-right: 64px;
+
+
+}
+
+
+.newsletter-comment{
+    font-size: 16px;
+    font-weight: 300px;
+    text-align: center;
+    padding-bottom:80px;
+}
+
+.newsletter-form-input{
+    font-weight: 100;
+    background-color: #FFFFFF;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    width: 600px;
+    align-self: center;
+    margin-left: 265px;
+    margin-right: 0px;
+
+}
+
+.newsletter-btn{
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #006A50;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    color: #FFFFFF;
+    border: none;
+    margin-right: 265px;
+    margin-left: 0px;
+    max: width 150px;
+    
+
+}
+
+.newsletter-form{
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+
+
+
